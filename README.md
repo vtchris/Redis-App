@@ -15,7 +15,8 @@ https://www.youtube.com/watch?v=oaJq1mQ3dFI&t=373s
 <h2>Packages</h2>
 <ul>  
   <li>Bluebird</li>
-  <li>Express<li> 
+  <Li>Dotenv</li>
+  <li>Express</li> 
   <li>Fetch</li>
   <li>Redis</li>
 </ul>
